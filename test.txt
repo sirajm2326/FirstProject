@@ -8,6 +8,5 @@ public class test
 	 System.out.println("Again testing "); 
 	 System.out.println("new statement testing ");
 	 
-	 System.out.println("Adding new statement");
   }
 }
