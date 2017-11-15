@@ -5,5 +5,12 @@ public class test
      System.out.println("Hello world");
 	 
 	 System.out.println("New Statement");
+	 
+	 if(test)
+	 {
+		condition;
+		}
+		esle{
+		}
   }
 }
