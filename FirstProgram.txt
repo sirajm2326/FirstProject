@@ -7,9 +7,8 @@ public class test
 	 if(check)
 	 {
 		test;
-	 }else
-	 {
+	 } else if{
 	 }
-	 
+	 else
   }
 }
