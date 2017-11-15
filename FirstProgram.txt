@@ -4,10 +4,13 @@ public class test
   {
      System.out.println("Hello world");
 	 
-	 System.out.println("New Conflict");
+	 if(check)
+	 {
+		test;
+	 }else
+	 {
+			testing conflicts.
+	 }
 	 
-	  System.out.println("New Conflict1");
-	  
-	   System.out.println("New Conflict3"); 
   }
 }
